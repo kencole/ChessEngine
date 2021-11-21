@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author colek
+ *
+ */
+module chessEngine {
+}
